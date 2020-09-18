@@ -1,1 +1,1 @@
-# -BigData_MongoDB-Practice
+# BigData_MongoDB-Practice
